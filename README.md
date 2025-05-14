@@ -34,7 +34,7 @@ Ao fornecer um arquivo `.txt` contendo os nomes dos filmes, o bot executa as seg
 ## 📦 Tecnologias utilizadas
 
 - **Selenium** – Automação do navegador  
-- **Pandas** – Leitura e manipulação do arquivo `.txt` ou `.csv`  
+- **Pandas** – Leitura e manipulação do arquivo `.txt`
 - **Requests** – Comunicação HTTP com a API  
 - **Tkinter** – Interface gráfica do usuário (GUI)
 
